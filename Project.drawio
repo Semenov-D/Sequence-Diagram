@@ -1,0 +1,273 @@
+<mxfile host="app.diagrams.net" modified="2022-12-09T07:26:20.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="aUZzG3q-hN8QWAbdFPg_" version="20.6.0" type="github">
+  <diagram id="Dd5mZaAwoH7fWMe1h3uj" name="Страница 1">
+    <mxGraphModel dx="6426" dy="2255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="G6gxm78g3z-paOCxik08-1" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-1360" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-2" value="&lt;span style=&quot;color: rgb(24, 24, 24); font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Клиент&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-1395" y="210" width="100" height="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="G6gxm78g3z-paOCxik08-2" vertex="1">
+          <mxGeometry x="45" y="70" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="G6gxm78g3z-paOCxik08-2" vertex="1">
+          <mxGeometry x="45" y="250" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-59" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Helvetica;fontSize=12;" parent="G6gxm78g3z-paOCxik08-2" vertex="1">
+          <mxGeometry x="45" y="370" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-60" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Helvetica;fontSize=12;" parent="G6gxm78g3z-paOCxik08-2" vertex="1">
+          <mxGeometry x="45" y="469" width="10" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-4" value="&lt;span style=&quot;color: rgb(24, 24, 24); font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Account Manager&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-1200" y="210" width="100" height="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="G6gxm78g3z-paOCxik08-4" vertex="1">
+          <mxGeometry x="45" y="70" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-14" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;Обработка&lt;br&gt;&amp;nbsp;заявки&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=16;exitX=0.923;exitY=0.309;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.029;entryY=0.684;entryDx=0;entryDy=0;entryPerimeter=0;" parent="G6gxm78g3z-paOCxik08-4" edge="1">
+          <mxGeometry x="0.0117" y="25" width="80" relative="1" as="geometry">
+            <mxPoint x="54.23000000000002" y="94.72000000000003" as="sourcePoint" />
+            <mxPoint x="55.29000000000019" y="124.72000000000003" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="85" y="95" />
+              <mxPoint x="85" y="125" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Helvetica;fontSize=12;" parent="G6gxm78g3z-paOCxik08-4" vertex="1">
+          <mxGeometry x="45" y="250" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-21" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;Сбор данных&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=16;exitX=0.964;exitY=0.242;exitDx=0;exitDy=0;exitPerimeter=0;" parent="G6gxm78g3z-paOCxik08-4" source="G6gxm78g3z-paOCxik08-19" target="G6gxm78g3z-paOCxik08-19" edge="1">
+          <mxGeometry x="0.1111" y="40" width="80" relative="1" as="geometry">
+            <mxPoint x="60" y="270" as="sourcePoint" />
+            <mxPoint x="69" y="300.28" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="265" />
+              <mxPoint x="80" y="290" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Helvetica;fontSize=12;" parent="G6gxm78g3z-paOCxik08-4" vertex="1">
+          <mxGeometry x="45" y="360" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-34" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Helvetica;fontSize=12;" parent="G6gxm78g3z-paOCxik08-4" vertex="1">
+          <mxGeometry x="45" y="470" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-5" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 13px;&quot;&gt;Команда проектирования&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-780" y="210" width="100" height="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Helvetica;fontSize=12;" parent="G6gxm78g3z-paOCxik08-5" vertex="1">
+          <mxGeometry x="45" y="230" width="10" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-26" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Составление&lt;br&gt;ТЗ&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=16;" parent="G6gxm78g3z-paOCxik08-5" edge="1">
+          <mxGeometry x="0.4115" y="-30" width="80" relative="1" as="geometry">
+            <mxPoint x="55" y="330" as="sourcePoint" />
+            <mxPoint x="55" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="330" />
+              <mxPoint x="70" y="350" />
+            </Array>
+            <mxPoint x="29" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-48" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Проверка ПО&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=16;exitX=0.978;exitY=0.295;exitDx=0;exitDy=0;exitPerimeter=0;" parent="G6gxm78g3z-paOCxik08-5" edge="1">
+          <mxGeometry x="0.1111" y="40" width="80" relative="1" as="geometry">
+            <mxPoint x="54.99999999999977" y="800.3199999999999" as="sourcePoint" />
+            <mxPoint x="55.22000000000003" y="830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="800" />
+              <mxPoint x="80" y="830" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-6" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 13px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Project Manager&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-1000" y="210" width="100" height="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="G6gxm78g3z-paOCxik08-6" vertex="1">
+          <mxGeometry x="45" y="150" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-17" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;Создание&lt;br&gt;проекта&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=16;exitX=1.029;exitY=0.111;exitDx=0;exitDy=0;exitPerimeter=0;" parent="G6gxm78g3z-paOCxik08-6" source="G6gxm78g3z-paOCxik08-15" target="G6gxm78g3z-paOCxik08-15" edge="1">
+          <mxGeometry x="0.0936" y="20" width="80" relative="1" as="geometry">
+            <mxPoint x="60" y="173" as="sourcePoint" />
+            <mxPoint x="69" y="203.27999999999997" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="159" />
+              <mxPoint x="80" y="180" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-38" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="G6gxm78g3z-paOCxik08-6" vertex="1">
+          <mxGeometry x="45" y="610" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-7" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 13px;&quot;&gt;Команда разработчиков-тестировщиков&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-370" y="210" width="100" height="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-42" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Helvetica;fontSize=12;" parent="G6gxm78g3z-paOCxik08-7" vertex="1">
+          <mxGeometry x="45" y="630" width="10" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-44" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Модернизация&lt;br&gt;ПО&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=16;exitX=0.978;exitY=0.295;exitDx=0;exitDy=0;exitPerimeter=0;" parent="G6gxm78g3z-paOCxik08-7" edge="1">
+          <mxGeometry x="0.1281" y="20" width="80" relative="1" as="geometry">
+            <mxPoint x="55" y="670.3199999999999" as="sourcePoint" />
+            <mxPoint x="55.220000000000255" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="670" />
+              <mxPoint x="80" y="700" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-45" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Тестирование&lt;br&gt;обновленного ПО&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=16;exitX=0.978;exitY=0.295;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.051;entryY=0.334;entryDx=0;entryDy=0;entryPerimeter=0;" parent="G6gxm78g3z-paOCxik08-7" target="G6gxm78g3z-paOCxik08-42" edge="1">
+          <mxGeometry x="0.1435" y="50" width="80" relative="1" as="geometry">
+            <mxPoint x="54.77999999999997" y="728.8199999999999" as="sourcePoint" />
+            <mxPoint x="55.00000000000023" y="758.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="729" />
+              <mxPoint x="80" y="760" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-8" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-size: 13px;&quot;&gt;Совет директоров&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-570" y="210" width="100" height="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-57" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontFamily=Helvetica;fontSize=12;" parent="G6gxm78g3z-paOCxik08-8" vertex="1">
+          <mxGeometry x="45" y="203" width="10" height="817" as="geometry" />
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-10" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;Отправка заявки на проект&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontFamily=Comic Sans MS;fontSize=16;labelBackgroundColor=none;entryX=0.007;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="G6gxm78g3z-paOCxik08-9" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-1340" y="280" as="sourcePoint" />
+            <mxPoint x="-1160" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-16" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;Отправка обработанной заявки&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontFamily=Comic Sans MS;fontSize=16;labelBackgroundColor=none;entryX=0.096;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="G6gxm78g3z-paOCxik08-9" target="G6gxm78g3z-paOCxik08-15" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-1130" y="369.99999999999994" as="sourcePoint" />
+            <mxPoint x="-935.11" y="369.99999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-20" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;Консультация&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontFamily=Comic Sans MS;fontSize=16;exitX=1;exitY=0.01;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;entryX=0.035;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="G6gxm78g3z-paOCxik08-18" target="G6gxm78g3z-paOCxik08-19" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-1340" y="450" as="sourcePoint" />
+            <mxPoint x="-1160" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-23" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;Создание команды проектирования&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontFamily=Comic Sans MS;fontSize=16;labelBackgroundColor=none;" parent="1" source="G6gxm78g3z-paOCxik08-15" target="G6gxm78g3z-paOCxik08-22" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-900" y="439.9999999999999" as="sourcePoint" />
+            <mxPoint x="-750" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-25" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;Передача данных&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontFamily=Comic Sans MS;fontSize=16;labelBackgroundColor=none;exitX=0.934;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.083;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="G6gxm78g3z-paOCxik08-19" target="G6gxm78g3z-paOCxik08-22" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-1140" y="520" as="sourcePoint" />
+            <mxPoint x="-740" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-29" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;Отправка ТЗ&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontFamily=Comic Sans MS;fontSize=16;labelBackgroundColor=none;entryX=1.118;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.03;exitY=0.167;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="G6gxm78g3z-paOCxik08-22" target="G6gxm78g3z-paOCxik08-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-740" y="572" as="sourcePoint" />
+            <mxPoint x="-1140" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-30" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;Отправка ТЗ&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontFamily=Comic Sans MS;fontSize=16;labelBackgroundColor=none;exitX=-0.037;exitY=0.451;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="G6gxm78g3z-paOCxik08-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1169.0500000000002" y="570" as="sourcePoint" />
+            <mxPoint x="-1340" y="588" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-31" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;Утверждение ТЗ&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontFamily=Comic Sans MS;fontSize=16;labelBackgroundColor=none;entryX=0.075;entryY=0.24;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="G6gxm78g3z-paOCxik08-22" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-1340" y="630" as="sourcePoint" />
+            <mxPoint x="-1146.95" y="624.6599999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-33" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;Подписание договора&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontFamily=Comic Sans MS;fontSize=16;labelBackgroundColor=none;entryX=-0.131;entryY=0.272;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-1339" y="720" as="sourcePoint" />
+            <mxPoint x="-526.31" y="719.9200000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-35" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Оформление договора&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontFamily=Comic Sans MS;fontSize=16;labelBackgroundColor=none;exitX=-0.082;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="G6gxm78g3z-paOCxik08-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-747.5200000000004" y="660" as="sourcePoint" />
+            <mxPoint x="-1340" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-37" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Подписание договора&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontFamily=Comic Sans MS;fontSize=16;labelBackgroundColor=none;exitX=-0.135;exitY=0.412;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="G6gxm78g3z-paOCxik08-57" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-525.6199999999999" y="789.22" as="sourcePoint" />
+            <mxPoint x="-1340" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-40" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;Передача ПО&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontFamily=Comic Sans MS;fontSize=16;labelBackgroundColor=none;" parent="1" target="G6gxm78g3z-paOCxik08-6" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-1340" y="820" as="sourcePoint" />
+            <mxPoint x="-980" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-41" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;Передача данных и прав по проекту&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontFamily=Comic Sans MS;fontSize=16;labelBackgroundColor=none;entryX=0.056;entryY=0.077;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="G6gxm78g3z-paOCxik08-42" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-944.75" y="870" as="sourcePoint" />
+            <mxPoint x="-330" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-43" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;Создание команды разработчиков-тестировщиков&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontFamily=Comic Sans MS;fontSize=16;labelBackgroundColor=none;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-944.75" y="840" as="sourcePoint" />
+            <mxPoint x="-320" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-46" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Отправка обновленного ПО&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontFamily=Comic Sans MS;fontSize=16;labelBackgroundColor=none;exitX=0.074;exitY=0.385;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.956;entryY=0.697;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="G6gxm78g3z-paOCxik08-42" target="G6gxm78g3z-paOCxik08-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-330" y="990" as="sourcePoint" />
+            <mxPoint x="-720" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-49" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Отправка обновленного ПО&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontFamily=Comic Sans MS;fontSize=16;labelBackgroundColor=none;exitX=-0.119;exitY=0.783;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.228;entryY=0.677;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="G6gxm78g3z-paOCxik08-22" target="G6gxm78g3z-paOCxik08-60" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-750.0699999999997" y="1050" as="sourcePoint" />
+            <mxPoint x="-1340" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-53" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;Перевод&amp;nbsp;&lt;/font&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;средств&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontFamily=Comic Sans MS;fontSize=16;labelBackgroundColor=none;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-1340" y="1150" as="sourcePoint" />
+            <mxPoint x="-525" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-56" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;Завершение договора&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontFamily=Comic Sans MS;fontSize=16;labelBackgroundColor=none;entryX=-0.123;entryY=0.356;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-1340" y="1180" as="sourcePoint" />
+            <mxPoint x="-526.23" y="1179.84" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-51" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Подтверждение завершение договора&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontFamily=Comic Sans MS;fontSize=16;labelBackgroundColor=none;exitX=0.5;exitY=0.714;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-520" y="1229.9599999999998" as="sourcePoint" />
+            <mxPoint x="-1340" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-32" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;Утверждение ТЗ&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontFamily=Comic Sans MS;fontSize=16;labelBackgroundColor=none;exitX=-0.083;exitY=0.265;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="G6gxm78g3z-paOCxik08-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-757.5200000000002" y="650" as="sourcePoint" />
+            <mxPoint x="-1340" y="649" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6gxm78g3z-paOCxik08-58" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;Отправка отчета о начале проекте&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontFamily=Comic Sans MS;fontSize=16;labelBackgroundColor=none;exitX=1.074;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="G6gxm78g3z-paOCxik08-15" target="G6gxm78g3z-paOCxik08-57" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-935" y="450" as="sourcePoint" />
+            <mxPoint x="-530" y="413" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
